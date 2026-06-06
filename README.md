@@ -27,6 +27,8 @@ The initial dataset was heavily unformatted, containing mixed casing, trailing w
 Using the clean structural model, analytical matrices were generated to slice historical parameters:
 - **Revenue Distribution Table**: Aggregated total volumes grouped by operational markets and targeted categories.
 - **Operational Performance Table**: Structured ranking matrices evaluating regional performance criteria based on quantitative thresholds.
+- #### 📊 Pivot Table Architecture Preview:
+![Pivot Table Preview](pivot_table_preview.png)
 
 ### 3. Visual Dashboard Layer & Interactivity
 The raw tables were mapped into an executive presentation layout:
